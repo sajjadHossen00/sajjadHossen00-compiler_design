@@ -1,0 +1,11 @@
+# --> Symbol/Operator
+include --> Keyword
+< --> Symbol/Operator
+iostream --> Identifier
+> --> Symbol/Operator
+
+using --> Keyword
+namespace --> Keyword
+std --> Identifier
+; --> Symbol/Operator
+...
